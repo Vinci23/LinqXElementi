@@ -1,0 +1,12 @@
+C:\Users\ucenik\source\repos\LinqElementiX\bin\Debug\LinqElementiX.exe.config
+C:\Users\ucenik\source\repos\LinqElementiX\bin\Debug\LinqElementiX.exe
+C:\Users\ucenik\source\repos\LinqElementiX\bin\Debug\LinqElementiX.pdb
+C:\Users\ucenik\source\repos\LinqElementiX\obj\Debug\LinqElementiX.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\LinqElementiX\obj\Debug\LinqElementiX.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\LinqElementiX\obj\Debug\LinqElementiX.Form1.resources
+C:\Users\ucenik\source\repos\LinqElementiX\obj\Debug\LinqElementiX.FormUnos.resources
+C:\Users\ucenik\source\repos\LinqElementiX\obj\Debug\LinqElementiX.Properties.Resources.resources
+C:\Users\ucenik\source\repos\LinqElementiX\obj\Debug\LinqElementiX.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\LinqElementiX\obj\Debug\LinqElementiX.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\LinqElementiX\obj\Debug\LinqElementiX.exe
+C:\Users\ucenik\source\repos\LinqElementiX\obj\Debug\LinqElementiX.pdb
